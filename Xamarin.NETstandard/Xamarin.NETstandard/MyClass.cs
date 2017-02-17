@@ -7,6 +7,11 @@ namespace Xamarin.NETstandard
         public MyClass()
         {
         }
+
+        public string Test()
+        {
+            return "Hello world";
+        }
     }
 }
 
